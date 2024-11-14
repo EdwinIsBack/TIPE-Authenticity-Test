@@ -58,8 +58,7 @@ plt.imshow(imgGray2)
 plt.show()
 #print(type(imgGray[0,0][0]))
 #print(imgGray2)
-#K PLUS PROCHES VOISINS SQRT((R-R)^^2+(V-V)^^2+(B-B)^^2) c est la distance
-#regarder l ecart dcp et si il est petit on peu considerer que c est un vrai billet
+#K PLUS PROCHES VOISINS SQRT((R-R)^^2+(V-V)^^2+(B-B)^^2)
 dist=sqrt((imgGray[100][100][0]-imgGray2[100][100][0])**2+(imgGray[100][100][1]-imgGray2[100][100][1])**2+(imgGray[100][100][2]-imgGray2[100][100][2])**2)
 print(dist)
 #dr,dv,db=img2[0][0]-img[0][0]
