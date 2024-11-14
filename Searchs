@@ -1,0 +1,75 @@
+MONNAYEUR AUTOMATIQUE
+
+dans le theme sante prevention car il protege les gens de la maladie tels que le covid 19 . ils ne touchent pas a la piece de monnaie et aux billets et
+c'est le monnayeur qui va s'en charger et il va également rendre la différence . ca limite la transmition de maladie .
+
+
+PYTHON RENDU PIECE MONNAIE
+https://128mots.com/index.php/2021/01/21/algorithme-glouton-python/
+https://www.linternaute.com/argent/magazine/1022462-comment-reperer-un-faux-billet/1022470-le-filigrane.amphtml/
+(incroyable ce lien juste au dessus)
+https://www.capital.fr/votre-argent/reconnaitre-faux-billet-1389007
+https://www.banque-france.fr/billets/reconnaitre-et-utiliser-les-billets-et-les-pieces-en-euros/les-caracteristiques-des-billets-et-des-pieces-en-euro
+https://www.ecb.europa.eu/euro/banknotes/design/html/index.fr.html
+https://www.ecb.europa.eu/euro/banknotes/denominations/html/index.fr.html#es2-020
+
+https://www.banque-france.fr/billets/reconnaitre-et-utiliser-les-billets-et-les-pieces-en-euros/comment-authentifier-un-billet
+https://www.safescan.com/fr-xf/detection-de-faux-billets
+À chaque utilisation, le monnayeur vérifie que la pièce introduite correspond à la
+valeur donnée. Ce dispositif reconnaît et trie les pièces de monnaie par :
+-Leur diamètre et leur épaisseur, grâce à un gabarit.
+-Leur poids, grâce à une petite balance à ressort.
+-Leur conductivité électrique : ce dernier dispositif de reconnaissance peut parfois être
+problématique. En effet, la conductivité d'une pièce de monnaie peut se modifier avec le
+temps, l'usure et l'oxydation. C'est pourquoi l'on conseille de frotter sa pièce lorsque
+celle-ci n'est pas reconnue par le distributeur.
+http://dlibrary.univ-boumerdes.dz:8080/jspui/bitstream/123456789/4003/1/M%C3%A9moire%20compl%C3%A8te.pdf
+https://deepnote.com/@magdantho/p06fauxbillets-1T39piBIRb2aP0nhsHSOWQ
+https://www.developpez.net/forums/d1954319/autres-langages/python/general-python/rendre-monnaie-minimum-pieces-billets/
+
+
+
+https://www.top-office.com/reconnaitre-faux-billet.html#stylo-detecteur
+https://www.companeo.com/caisse-enregistreuse/guide/monnayeur-automatique-avantages
+https://www.monnayeur.cashmag.fr/integration-compatibilite/cashmag-connect
+https://www.developpez.net/forums/d1515351/general-developpement/algorithme-mathematiques/traitement-d-images/comparer-images-python/
+http://saima.info/fr/paydesk/
+https://zestedesavoir.com/tutoriels/1557/introduction-au-traitement-dimage/
+https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2015032187
+
+
+http://www.le-comptoir-geologique.com/_media/bv000002.lkdoc.uv.pdf
+filtres pr gerer image en UV
+https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2015032187
+un éclairage contenant de la lumière ultraviolette (UV). Cette lumière, souvent appelée « lumière noire » parce que nos yeux ne la perçoivent pas,
+est capable d’interagir avec certaines substances chimiques qui la renvoient 
+sous forme de lumière visible. Cette émission de lumière est appelée, selon les cas, fluorescence ou phosphorescence.
+http://www.le-comptoir-geologique.com/_media/bv000002.lkdoc.uv.pdf
+
+faire gaffe au fond car effet de transparence peuvent etre chiant quand je recupere ma matrice avec que mon billet.
+faire gaffe si le billet est cassé ou a un probleme la matrice sera pas totalement rectangulaire.
+une fois la matrice recupéré jpeux fait np.shape pour avoir les dimensions jpense.
+mettre le billet bien a plat avec photo orthogonale ou colinéaire au billet
+mettre une regle a coté du billet pour avoir la taille de 1cm en nombre de pixels.
+
+https://ch.trotec.com/fr/produits-et-services/appareils-de-mesure/detection-de-fuites/lampes-uva/uv-torchlight-5f/
+https://www.safescan.com/fr/detection-de-faux-billets
+
+METHODE DES K PLUS PROCHES VOISINS
+ON PRENDS DES POINTS QU ON VEUT QUI CORRESPONDENT A DES COORDONNES DU BILLET ET A DES COULEURS RGB
+ON LES COMPARENT A CEUX DU FAUX BILLET
+machine learning + detection de faux billets
+http://www.mf-data-science.fr/projet-detail.html?proj_ID=4
+
+
+
+
+https://scikit-image.org/
+https://openclassrooms.com/fr/courses/5060661-initiez-vous-aux-traitements-de-base-des-images-numeriques/5217811-apprenez-a-representer-et-afficher-des-images-en-langage-python
+https://moncoachdata.com/blog/10-outils-de-traitement-dimages-en-python/
+
+Tous les billets de banque modernes comportent de l'encre ultraviolette (UV) avec des phosphores fluorescents qui sont invisibles à la lumière naturelle ,
+mais qui sont clairement visibles si on utilise une lumière UV avec une longueur d'onde de 365 nanomètres.
+
+
+
